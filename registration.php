@@ -97,7 +97,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 </head>
 <body>
     <div class="header">
-        <h1>WELCOME TO NINE CLAN NYAKAHURA WELFARE ASSOCIATION.</h1>
+        <h1>Welcome to Kampala Group.</h1>
     </div>
     <h2>Register</h2>
     <div class="container">
@@ -146,11 +146,11 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     <!-- Footer Section -->
     <div class="footer">
         <div class="social-links">
-            <a href="https://www.facebook.com/9CNyakahura" target="_blank">Facebook</a>
-            <a href="https://X.com/9CNyahura" target="_blank">X</a>
-            <a href="https://www.instagram.com/9CNyakahura" target="_blank">Instagram</a>
+            <a href="https://www.facebook.com/kampalagroup" target="_blank">Facebook</a>
+            <a href="https://X.com/kampalagroup" target="_blank">X</a>
+            <a href="https://www.instagram.com/kampalagroup" target="_blank">Instagram</a>
         </div>
-        <p>Copyright © 9CLAN NYAKAHURA 2025</p>
+        <p>Copyright © Kampala Group 2025</p>
     </div>
 
     <!-- Branding Section -->
